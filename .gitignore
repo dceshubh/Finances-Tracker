@@ -1,0 +1,25 @@
+# Python
+.venv-finances-tracker/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local data
+data/*.db
+*.db
+uploads/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Claude Code local settings
+.claude/
